@@ -4,20 +4,20 @@
 
 Table of contents: 
 
-> What is IRC (Internet Relay Chat)?
-> Why do people still use IRC?
-> IRC's structure
-> How to setup IRC
-- Using a webchat client
-- Using Irssi
--- Installing Irssi on Ubuntu
-- How to setup Irssi to automatically connect to a server or channel on startup
-- Using Pidgin
-> Registering a nickname on IRC
-> Joining a network
-> Joining a channel
-> Other IRC commands
-> Resources
+- What is IRC (Internet Relay Chat)?
+- Why do people still use IRC?
+- IRC's structure
+- How to setup IRC
+-- Using a webchat client
+-- Using Irssi
+--- Installing Irssi on Ubuntu
+-- How to setup Irssi to automatically connect to a server or channel on startup
+-- Using Pidgin
+- Registering a nickname on IRC
+- Joining a network
+- Joining a channel
+- Other IRC commands
+- Resources
 
 ## What is IRC (Internet Relay Chat)?
 
