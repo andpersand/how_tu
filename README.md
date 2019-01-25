@@ -2,16 +2,16 @@
 
 _How tu_ is a guide to digital tools we've been told are complicated.
 
-/ES/
-//_How tu_ es...
+[//]: # (/ES/
+_How tu_ es...)
 
-/FR/
-//_How tu_ c'est... 
+[//]: # (/FR/
+_How tu_ c'est...)
 
-The thing is... they don't need to be complicated. We're trying to make them more accessible.
+The thing is... these tools don't need to be complicated. We're trying to make them more accessible by explaining them in terms everyone can understand.
 
-/ES/
-La verdad es que estas cosas no tienen que ser complicadas. Nosotrxs queremos hacerlas mas accesibles.
+[//]: # (/ES/
+La verdad es que estas cosas no tienen que ser complicadas. Nosotrxs queremos hacerlas mas accesibles.)
 
 ## How tu use
 
