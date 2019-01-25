@@ -8,10 +8,15 @@ Table of contents:
 - Why do people still use IRC?
 - IRC's structure
 - How to setup IRC
+
 -- Using a webchat client
+
 -- Using Irssi
+
 --- Installing Irssi on Ubuntu
+
 -- How to setup Irssi to automatically connect to a server or channel on startup
+
 -- Using Pidgin
 - Registering a nickname on IRC
 - Joining a network
