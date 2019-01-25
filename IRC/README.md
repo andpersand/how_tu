@@ -107,7 +107,7 @@ Once you've joined a network, you can join a channel on that network by entering
 
 `/join [#channelname]`
 
-replacing '[#channelname]' with the name of the channel you want to join. Remember that 
+replacing '[#channelname]' with the name of the channel you want to join. Remember that channel names start with the # symbol. 
 
 Some channels may require you to _register_ your nickname before you can join. For instructions on how to do this, skip to the _Registering a nickname on IRC_ section below. You should probably register your nickname anyway, just to make sure that others can't use your nickname and pretend to be you.
 
