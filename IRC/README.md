@@ -17,3 +17,9 @@ Personally, I use IRC because I can use it directly in Terminal, which makes me 
 (I feel like a HACKER)
 
 I also use IRC because the Tor Project uses it for most of their meetings. 
+
+## Resources
+
+Learn more about IRC:
+
+

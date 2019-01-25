@@ -2,7 +2,7 @@
 
 # 2FA (Two-Factor Authentication)
 
-What is Two-Factor Authentication (2FA)? 
+## What is Two-Factor Authentication (2FA)? 
 
 2FA is a security measure that allows you to add an extra verification step (or factor) to a login. You can turn on 2FA for many of your online accounts (including Facebook, Twitter, Gmail, Instagram, and others). 
 
@@ -13,3 +13,11 @@ You can even use a physical device like a Ubikey that will allow you to verify y
 ## A metaphor
 
 2FA is sort of like Cinderella's slipper. Cinderella shows up and tells the Prince who she is, but he doesn't believe her until the shoe fits her foot. In this case, Cinderella's physical presence and verbal statement are her username and password, and the shoe is her two-factor authentication.
+
+## Resources
+
+Learn more about 2FA:
+
+> https://www.turnon2fa.com/
+
+>> a site that provides you with step-by-step instructions to turn on two-factor authentication for most websites. 
