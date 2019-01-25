@@ -8,16 +8,11 @@ Table of contents:
 - Why do people still use IRC?
 - IRC's structure
 - How to setup IRC
-
--- Using a webchat client
-
--- Using Irssi
-
---- Installing Irssi on Ubuntu
-
--- How to setup Irssi to automatically connect to a server or channel on startup
-
--- Using Pidgin
+- Using a webchat client
+- Using Irssi
+- Installing Irssi on Ubuntu
+- How to setup Irssi to automatically connect to a server or channel on startup
+- Using Pidgin
 - Registering a nickname on IRC
 - Joining a network
 - Joining a channel
@@ -72,7 +67,9 @@ For this example, we'll use OFTC's webchat client, available here: https://webch
 
 On the OFTC webchat page, you'll be asked to enter a nickname and any channels you want to connect to. 
 
-Pick any nickname you'd like to use, and enter a channel in the channel box. If you don't know any channels, you can enter #oftc for now. This is the OFTC support channel.
+Pick any nickname you'd like to use, and enter a channel in the channel box. If you don't know any channels, you can find a list of channels on the OFTC network here: http://irc.netsplit.de/channels/?net=OFTC
+
+Or, you can just enter #oftc for now. This is the OFTC support channel.
 
 Click 'Connect' to connect to the channel.
 
