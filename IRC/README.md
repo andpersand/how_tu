@@ -77,6 +77,17 @@ Some channels may require you to _register_ your nickname before you can join. F
 To join a network, enter
 
 `/network [network name]` 
+
+replacing '[network name]' with the name of the network you'd like to join.
+
+### Joining a channel
+
+To join a channel, enter
+
+`/join [#channelname]`
+
+replacing '[#channelname]' with the name of the channel you want to join. Remember that channel names start with a # symbol.
+
 ### Other IRC commands
 
 The most helpful command in IRC is the 'help' command. To use it, enter 
