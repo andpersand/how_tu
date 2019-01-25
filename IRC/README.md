@@ -6,9 +6,11 @@
 
 IRC is a chat medium that was first used in 1988. 
 
+Something important to keep in mind when using IRC is that you will only receive messages while you're online. This means that if your friend sends you a message, but you're not online when they send it, you won't receive it. 
+
 ## Why do people still use IRC?
 
-IRC allows you to encrypt your chat conversations together with a tool like IRSSI or Pidgin. 
+IRC allows you to encrypt your chat conversations together with a tool like irssi or Pidgin. 
 
 Personally, I use IRC because I can use it directly in Terminal, which makes me feel _really cool_. To run IRC in Terminal, you can use a program like IRSSI. It looks like this on my setup:
 
@@ -54,13 +56,15 @@ Click 'Connect' to connect to the channel.
 
 Congratulations! You're using IRC. 
 
-Some channels may require you to _register_ your nickname before you can join. For instructions on how to do this, skip to the _Registering a nickname on IRC_ section below.
+Some channels may require you to _register_ your nickname before you can join. For instructions on how to do this, skip to the _Registering a nickname on IRC_ section below. You should probably register your nickname anyway, just to make sure that others can't use your nickname and pretend to be you.
 
 ### Using irssi 
 
 Some channels may require you to _register_ your nickname before you can join. For instructions on how to do this, skip to the _Registering a nickname on IRC_ section below.
 
-#### How to setup irssi to automatically connecto to a server or channel on startup
+#### How to setup irssi to automatically connect to a server or channel on startup
+
+This is one of my favorite things about irssi. It makes it so easy for me to keep on top of my IRC messages; all I have to do is open my terminal at the beginning of my day, and type the 'irssi' command. irssi does everything else for me, which means I don't have to worry so much about missing important messages. 
 
 ### Pidgin
 
