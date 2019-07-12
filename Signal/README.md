@@ -44,6 +44,8 @@ We say all this simply as a recommendation. We know that only _you_ really know 
 
 > [Signal's support site.](https://support.signal.org/)
 
-> https://support.signal.org/
+>> https://support.signal.org/
+
+>
 
 >> Some tips on how to change your Signal settings to be safer. 
