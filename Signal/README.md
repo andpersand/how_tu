@@ -14,7 +14,7 @@ As I'm writing this document, the icon currently looks like a blue square with a
 
 Once you've installed the app, you can open it up and start setting up your account. 
 
-__Note:__ During the setup process, Signal will ask you to grant it some permissions. You don't need to grant any of these permissions, but you might need to later if you want to do certain things. (For more information on these permissions, check out Signal's (documentation)[https://support.signal.org/hc/en-us/articles/360007062172-Signal-Permissions].
+__Note:__ During the setup process, Signal will ask you to grant it some permissions. You don't need to grant any of these permissions, but you might need to later if you want to do certain things. (For more information on these permissions, check out Signal's [documentation](https://support.signal.org/hc/en-us/articles/360007062172-Signal-Permissions).
 
 To start using Signal, you'll need to enter your phone number. Make sure this is a real phone number that you have access to, because Signal will send a verification code to you through an SMS message. Once you've received the verification code, type it into the box that Signal provides. 
 
@@ -38,10 +38,12 @@ We say all this simply as a recommendation. We know that only _you_ really know 
 
 ## Resources
 
-> [https://support.signal.org/](Signal's website).
+> [https://signal.org/](Signal's website).
 
 >> 
 
 > 
+
+> [Signal's support site.](https://support.signal.org/)
 
 >> Some tips on how to change your Signal settings to be safer. 
