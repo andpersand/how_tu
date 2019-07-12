@@ -2,7 +2,7 @@
 
 # What is How tu?
 
-_How tu_ is a guide to digital tools we've been told are complicated.
+_How tu_ is a guide to digital tools. 
 
 [//]: # (/ES/
 _How tu_ es...)
