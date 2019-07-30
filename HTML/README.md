@@ -1,6 +1,6 @@
 [//]: # (HTML README.md)
 
-# HTML (
+# HTML
 
 ## What is HTML?
 
