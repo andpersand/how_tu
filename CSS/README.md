@@ -11,10 +11,10 @@ CSS is a programming language that allows you to add _style_ to a website. CSS t
 With CSS, you can add colors, shapes, animations, fonts, and most importantly, visual structure to a website. 
 
 Before CSS, your HTML might look like this:
-[//]: # (HTML site image)
+[insert screenshot of plain HTML site]
 
 After CSS, the same website might look like this:
-[//]: # (HTML+CSS site image)
+[insert screenshot of the same site with CSS]
 
 ## Resources
 
