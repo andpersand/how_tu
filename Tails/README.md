@@ -18,6 +18,8 @@ https://tails.boum.org/about/index.en.html
 
 ## How can I use Tails?
 
+https://tails.boum.org/install/index.en.html
+
 ## How does it work?
 
 ## Resources
