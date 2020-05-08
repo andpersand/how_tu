@@ -7,7 +7,7 @@
 Tails is a 'live' operating system.
 You can install Tails on a USB or a DVD, and then run it directly from that USB or DVD, without ever needing to install it on your computer.
 
-Tails is built to protect your anonymity.  
+Tails is built to protect your privacy.  
 When you use Tails, no logs will be saved on your computer.
 This means that there will be no trace of your activities on the computer you used. 
 No one will be able to see what you did on that computer. 
