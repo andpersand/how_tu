@@ -4,15 +4,17 @@
 
 ## What is Tails?
 
-Tails is a 'live' operating system that you can run on almost any computer. 
-You can boot Tails from a USB stick or a DVD. 
+Tails is a 'live' operating system.
+You can install Tails on a USB or a DVD, and then run it directly from that USB or DVD, without ever needing to install it on your computer.
 
-Tails is built to protect your privacy and anonymity. 
-What's cool about it is that when you use Tails, no logs will be saved on your computer. 
+Tails is built to protect your anonymity.  
+When you use Tails, no logs will be saved on your computer.
 This means that there will be no trace of your activities on the computer you used. 
 No one will be able to see what you did on that computer. 
 
 Tails also encrypts your files, emails, and instant messages.
+
+https://tails.boum.org/about/index.en.html
 
 ## How can I use Tails?
 
